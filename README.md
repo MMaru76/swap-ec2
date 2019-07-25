@@ -1,0 +1,5 @@
+# start!
+
+```
+$ sudo setup.sh
+```
