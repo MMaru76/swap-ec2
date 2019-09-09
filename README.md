@@ -4,7 +4,7 @@
 
 |Item|Contents|Memo|
 |:--:|:--:|:--:|
-|OS|Amazon Linux AMI||
+|OS|Amazon Linux/2 AMI||
 |type|t2.micro||
 |Storage|8GB~||
 
