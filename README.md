@@ -11,7 +11,7 @@
 ## Clone
 
 ```
-git clone https://github.com/maruchan76/swap-ec2.git
+git clone https://github.com/MMaru76/swap-ec2.git
 ```
 
 ## Create swap area
